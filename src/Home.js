@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     height: width,
   },
   preview: {
-    backgroundColor: 'grey',
+    backgroundColor: 'gray',
     width,
     height: width,
   },
