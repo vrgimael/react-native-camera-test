@@ -1,11 +1,5 @@
 import React, {useRef, useState} from 'react';
-import {
-  StyleSheet,
-  View,
-  Text,
-  Dimensions,
-  TouchableOpacity,
-} from 'react-native';
+import {StyleSheet, View, Dimensions, TouchableOpacity} from 'react-native';
 
 import {RNCamera} from 'react-native-camera';
 import Video from 'react-native-video';
